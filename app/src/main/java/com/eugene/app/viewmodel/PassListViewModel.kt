@@ -14,7 +14,7 @@ import javax.inject.Inject
 class PassListViewModel : ViewModel() {
 
     init{
-        MyApplication.Dagger.daggerApplicationComponent.inject(this)
+        MyApplication.daggerApplicationComponent.inject(this)
         loadPasswordList()
     }
 

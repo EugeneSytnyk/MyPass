@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFC107</color>
+    <color name="toxic_yellow">#FFEA00</color>
+    <color name="blue">#03A9F4</color>
+    <color name="purple">#673AB7</color>
+    <color name="red">#F44336</color>
+    <color name="pink">#E91E63</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF5722</color>
+    <color name="dark_blue">#3F51B5</color>
+    <color name="light_yellow">#FFEB3B</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="light_purple">#AD9C27B0</color>
+    <color name="violet">#9C27B0</color>
+
+    <array name="icon_colors">
+        <item>@color/yellow</item>
+        <item>@color/toxic_yellow</item>
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/red</item>
+        <item>@color/pink</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/dark_blue</item>
+        <item>@color/light_yellow</item>
+        <item>@color/light_green</item>
+        <item>@color/light_purple</item>
+        <item>@color/violet</item>
+    </array>
+</resources>

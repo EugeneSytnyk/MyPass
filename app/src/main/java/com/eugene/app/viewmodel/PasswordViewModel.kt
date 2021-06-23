@@ -16,7 +16,7 @@ import javax.inject.Inject
 class PasswordViewModel : ViewModel() {
 
     init{
-        MyApplication.Dagger.daggerApplicationComponent.inject(this)
+        MyApplication.daggerApplicationComponent.inject(this)
     }
 
     @Inject protected lateinit var createPassInstance : CreatePassInstance

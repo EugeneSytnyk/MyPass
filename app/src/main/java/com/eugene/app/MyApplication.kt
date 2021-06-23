@@ -10,7 +10,7 @@ import com.eugene.app.di.module.RoomModule
 
 class MyApplication : Application() {
 
-    object Dagger{
+    companion object Dagger{
         lateinit var daggerApplicationComponent: ApplicationComponent
     }
 
